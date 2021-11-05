@@ -1,0 +1,22 @@
+@import url(../css/null.css);
+
+.contact {
+}
+.contact__body {
+}
+.contact__item {
+	display: block;
+	padding-left: 22px;
+}
+.contact__item-location {
+	background: url("/img/location.svg") 0 0 no-repeat;
+}
+.contact__item-number {
+	background: url("/img/smartphone.svg") 0 0 no-repeat;
+}
+.contact__item-email {
+	background: url("/img/email.svg") 0 0 no-repeat;
+}
+.contact__item-time {
+	background: url("/img/timer.svg") 0 0 no-repeat;
+}
